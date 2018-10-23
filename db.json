@@ -1,0 +1,5 @@
+ { "id": 1, "idLoc": 1, "timestamp": new Date().toISOString(), "value":69.37 },
+ { "id": 2, "idLoc": 2, "timestamp": new Date().toISOString(), "value":64.37 },
+ { "id": 3, "idLoc": 3, "timestamp": new Date().toISOString(), "value":39.37 }
+   
+ 
