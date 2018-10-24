@@ -1,8 +1,8 @@
 {
  "posts": [
-    { "id": 1, "idLoc": 1, "timestamp": "123456567","loadType":"load1","value":69.37 },
-    { "id": 2, "idLoc": 2, "timestamp": "123456567","loadType":"load2", "value":64.37 },
-    { "id": 3, "idLoc": 3, "timestamp": "123456567","loadType":"load1","value":39.37 }
+    { "idSensore": 1, "idLoc": 1, "timestamp": "123456567","loadType":"load1","value":69.37 },
+    { "idSensore": 2, "idLoc": 2, "timestamp": "123456567","loadType":"load2", "value":64.37 },
+    { "idSensore": 3, "idLoc": 3, "timestamp": "123456567","loadType":"load1","value":39.37 }
   ],
   "profile": {
     "name": "franzies"
