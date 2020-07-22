@@ -1,53 +1,10 @@
 {
  "posts":[ 
 {
-	"id": 980290.0,
-	"objId": 146,
-	"timestamp": "2018-11-09 09:02:48.333",
-	"value": 32.12
-},
-{
-	"id": 980291.0,
-	"objId": 147,
-	"timestamp": "2018-11-09 09:02:51.86",
-	"value": 1.463
-},
-{
-	"id": 980292.0,
-	"objId": 149,
-	"timestamp": "2018-11-09 09:03:14.403",
-	"value": 20.475
-},
-{
-	"id": 980293.0,
-	"objId": 150,
-	"timestamp": "2018-11-09 09:02:52.563",
-	"value": 1.34
-},
-{
-	"id": 980294.0,
-	"objId": 152,
-	"timestamp": "2018-11-09 09:03:23.543",
-	"value": 26.053
-},
-{
-	"id": 980295.0,
-	"objId": 153,
-	"timestamp": "2018-11-09 09:04:43.12",
-	"value": 3.628
-},
-{
-	"id": 980296.0,
-	"objId": 155,
-	"timestamp": "2018-11-09 09:04:43.12",
-	"value": 34.091
-},
-{
-	"id": 980297.0,
-	"objId": 156,
-	"timestamp": "2018-11-09 09:04:38.19",
-	"value": 1.376
-} ],
+	"status": "SUCCESS",
+	"message": "SBox_OTP_already_sent_via_e-mail_is_still_valid"
+	 
+}],
   "profile": {
     "name": "franzies"
   }
